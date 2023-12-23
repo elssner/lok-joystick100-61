@@ -5,7 +5,8 @@
         "core": "*",
         "v1": "*",
         "radio": "*",
-        "joystick": "github:calliope-net/joystick#v2.0.3"
+        "joystick": "github:calliope-net/joystick#v2.0.3",
+        "Grove": "github:calliope-edu/pxt-grove#v0.2.7"
     },
     "files": [
         "main.blocks",
