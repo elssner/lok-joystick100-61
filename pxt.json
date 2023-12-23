@@ -1,5 +1,6 @@
 {
     "name": "61-joystick100-radio",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
