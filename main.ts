@@ -32,6 +32,12 @@ function display (a1: number, b1: number) {
         _4digit.show(a1 * 100 + b1)
     }
 }
+function lokjoystick10061 () {
+    qwiicjoystick.comment("3 Erweiterungen:")
+    qwiicjoystick.comment("radio")
+    qwiicjoystick.comment("Grove")
+    qwiicjoystick.comment("calliope-net/joystick")
+}
 let ret = 0
 let v = 0
 let joystick_h = 0

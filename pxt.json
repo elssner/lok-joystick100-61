@@ -1,12 +1,12 @@
 {
-    "name": "61-joystick100-radio",
+    "name": "lok-joystick100-61",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
         "v1": "*",
         "radio": "*",
-        "joystick": "github:calliope-net/joystick#v2.0.3",
+        "joystick": "github:calliope-net/joystick#v2.0.5",
         "Grove": "github:calliope-edu/pxt-grove#v0.2.7"
     },
     "files": [
